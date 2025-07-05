@@ -45,7 +45,7 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=github&logoColor=white" />
   <p align="left">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/langgraph-logo.png" alt="LangGraph" height="28" />
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/langgraph-color.svg" alt="LangGraph" height="28" style="vertical-align: middle;" />
     <strong style="font-size: 16px; vertical-align: middle;">LangGraph</strong>
   </p>
   <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
