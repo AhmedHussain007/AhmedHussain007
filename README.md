@@ -36,6 +36,11 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
 
 ---
 
+🧰 Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/MERN-3E863D?style=for-the-badge&logo=javascript&logoColor=white" /> </p>
+
+---
+
 ### 💡 What I'm Up To
 
 - 🔭 I’m currently working on a Multi-Agent system using Agentic AI concepts.
