@@ -1,6 +1,6 @@
 # 👨‍💻 Ahmed Hussain | AI Engineer
 
-<p style="font-size:16px">
+<p style="font-size:18px">
 Hi! I'm Ahmed, an AI enthusiast with a passion for Artificial Intelligence, Computer Vision, Natural Language Processing, and building Generative and Agentic AI based web/mobile applications.
 </p>
 ---
