@@ -3,6 +3,7 @@
 <p style="font-size:18px">
 Hi! I'm Ahmed, an AI enthusiast with a passion for Artificial Intelligence, Computer Vision, Natural Language Processing, and building Generative and Agentic AI based web/mobile applications.
 </p>
+
 ---
 
 ### 🚀 Projects
@@ -13,6 +14,34 @@ Hi! I'm Ahmed, an AI enthusiast with a passion for Artificial Intelligence, Comp
 - 🖼️ Image Captioning – Generated image captions using EfficientNet for feature extraction and LSTM for sequence generation.
 
 - 🤖 Product Recommender – Hybrid system using FOL + vector similarity, refined by Gemini LLM for final product suggestions.
+
+---
+
+## 🎓 Courses
+
+- **Machine Learning** – Stanford (Andrew Ng)
+- **Deep Learning Specialization** – Stanford (Andrew Ng)
+- **NLP** – *(In Progress)*
+- **Generative AI & Agentic AI** – *(Self-taught via YouTube)*
+- **Full Stack Web Development (MERN)** – COMSATS University
+
+---
+
+## 🧠 Skills
+
+**Languages**: Python, JavaScript, C++  
+**Frameworks/Tools**: Node.js, React, Express, MongoDB, NumPy, TensorFlow, PyTorch  
+**AI/ML**: Machine Learning, Deep Learning, NLP, RAG, Generative AI  
+**CS Fundamentals**: Data Structures & Algorithms (150+ LeetCode problems)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [your email]
+- 🌐 Portfolio: [link]
+- 🧠 LinkedIn: [link]
+
 
 
 **AhmedHussain007/AhmedHussain007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
