@@ -29,10 +29,10 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
 
 ### 🧠 Skills
 
-**Languages**: Python, JavaScript, C++  
-**Frameworks/Tools**: Node.js, React, Express, MongoDB, NumPy, TensorFlow, PyTorch  
-**AI/ML**: Machine Learning, Deep Learning, NLP, RAG, Generative AI  
-**CS Fundamentals**: Data Structures & Algorithms (150+ LeetCode problems)
+- **Languages**: Python, JavaScript, C++  
+- **Frameworks/Tools**: TensorFlow, PyTorch, OpenCV, LangChain, LangGraph, Transformers, MERN Stack
+- **AI/ML**: Machine Learning, Deep Learning, NLP, RAG, Generative AI  
+- **CS Fundamentals**: Data Structures & Algorithms (150+ LeetCode problems)
 
 ---
 
