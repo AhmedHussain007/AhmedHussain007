@@ -44,7 +44,7 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-🦜➿-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-🦜➿-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/MERN-3E863D?style=for-the-badge&logo=react&logoColor=white" />
 </p>
