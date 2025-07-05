@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed Hussain | AI Engineer
 
 <p style="font-size:18px">
-Hi! I'm Ahmed, an AI enthusiast with a passion for Artificial Intelligence, Computer Vision, Natural Language Processing, and building Generative and Agentic AI based web/mobile applications.
+Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence, Computer Vision, Natural Language Processing, and building Generative and Agentic AI based web/mobile applications.
 </p>
 
 ---
@@ -17,17 +17,17 @@ Hi! I'm Ahmed, an AI enthusiast with a passion for Artificial Intelligence, Comp
 
 ---
 
-## 🎓 Courses
+### 🎓 Courses
 
 - **Machine Learning** – Stanford (Andrew Ng)
 - **Deep Learning Specialization** – Stanford (Andrew Ng)
 - **NLP** – *(In Progress)*
-- **Generative AI & Agentic AI** – *(Self-taught via YouTube)*
+- **Generative AI** – *(Self-taught via YouTube)*
 - **Full Stack Web Development (MERN)** – COMSATS University
 
 ---
 
-## 🧠 Skills
+### 🧠 Skills
 
 **Languages**: Python, JavaScript, C++  
 **Frameworks/Tools**: Node.js, React, Express, MongoDB, NumPy, TensorFlow, PyTorch  
@@ -36,24 +36,18 @@ Hi! I'm Ahmed, an AI enthusiast with a passion for Artificial Intelligence, Comp
 
 ---
 
-## 📫 Contact
+### 💡 What I'm Up To
 
-- 📧 Email: [your email]
+- 🔭 I’m currently working on a Multi-Agent system using Agentic AI concepts.
+- 🌱 I’m currently learning **Natural Language Processing** and diving deeper into **LLM fine-tuning**.
+- 👯 I’m looking to collaborate on **Generative AI tools**, **RAG systems**, and **open-source AI utilities**.
+
+
+---
+
+### 📫 How to reach me:
+
+- 📧 Email: [ahmedhussain.ai.eng@gmail.com]
 - 🌐 Portfolio: [link]
-- 🧠 LinkedIn: [link]
-
-
-
-**AhmedHussain007/AhmedHussain007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🧠 LinkedIn: [https://www.linkedin.com/in/ahmed-hussain-ai/]
 
