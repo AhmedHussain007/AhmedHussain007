@@ -15,6 +15,8 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
 
 - 🤖 Product Recommender – Hybrid system using FOL + vector similarity, refined by Gemini LLM for final product suggestions.
 
+- 🌐 Developed a Machine Translation project from Dutch to English.
+
 ---
 
 ### 🎓 Courses
