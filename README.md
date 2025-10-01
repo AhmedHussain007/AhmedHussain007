@@ -7,7 +7,7 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
 ---
 
 ### 🚀 Projects
-- 🛒 E-Commerce Website (SSR) – Built with Node.js, Express, and MongoDB using server-side rendering for SEO and performance.
+- 🤖 Have very deep understanding of LLMs and also implemented them from scratch.
 
 - 📄 RAG Chatbot – Document-based Q&A system using LLMs, vector databases and LangChain.
 
@@ -23,7 +23,8 @@ Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence
 - **Deep Learning Specialization** – Stanford (Andrew Ng)
 - **NLP** – *(In Progress)*
 - **Generative AI** – *(Self-taught via YouTube)*
-- **Full Stack Web Development (MERN)** – COMSATS University
+- **Agentic AI** – *(Self-taught via YouTube)*
+- **LLms and their Working** – *(Self-taught via YouTube)*
 
 ---
 
