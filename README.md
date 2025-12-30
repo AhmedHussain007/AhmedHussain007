@@ -1,19 +1,22 @@
-# 👨‍💻 Ahmed Hussain | AI Engineer
+# 👨‍💻 Ahmed Hussain | AI & Business Automation Engineer
 
 <p style="font-size:18px">
-Hi! I'm Ahmed, an ✨AI enthusiast✨ with a passion for Artificial Intelligence, Computer Vision, Natural Language Processing, and building Generative and Agentic AI based web/mobile applications.
+Hi! I'm Ahmed — I build intelligent automation systems, AI-driven solutions, and agent-based applications. My work spans workflow automation, lead management, LLM-based projects, and AI tools for real-world problems.
 </p>
 
 ---
 
 ### 🚀 Projects
-- 🤖 Have very deep understanding of LLMs and also implemented them from scratch.
 
 - 📄 RAG Chatbot – Document-based Q&A system using LLMs, vector databases and LangChain.
 
-- 🖼️ Image Captioning – Generated image captions using EfficientNet for feature extraction and LSTM for sequence generation.
+- 📲 WhatsApp Lead Automation – Built a system that automatically replies to messages, shares info, and converts interested users into clients without human effort.
 
-- 🤖 Product Recommender – Hybrid system using FOL + vector similarity, refined by Gemini LLM for final product suggestions.
+- 📂 Email Scraping Tool – Built a system that automatically collects valid emails from websites, cleans and organizes them, and prepares lists for outreach without manual work.
+
+- 📧 Email Automation System – Built a system that automatically sends Emails, tracks replies, follows up with prospects, and converts leads into clients without manual effort.
+
+- 🤖 Have very deep understanding of LLMs and also implemented them from scratch.
 
 - 🌐 Developed a Machine Translation project from Dutch to English.
 
