@@ -31,23 +31,18 @@ Hi! I'm Ahmed — I build intelligent automation systems, AI-driven solutions, a
 
 ### 🧠 Skills
 
-- **Languages**: Python, JavaScript, C++  
-- **Frameworks/Tools**: TensorFlow, PyTorch, OpenCV, LangChain, LangGraph, Transformers, MERN Stack
-- **AI/ML**: Machine Learning, Deep Learning, NLP, RAG, Generative AI, Agentic AI, LLms  
-- **CS Fundamentals**: Data Structures & Algorithms (150+ LeetCode problems)
+- **Languages**: Python, JavaScript  
+- **Frameworks/Tools**: PyTorch, LangChain, LangGraph, N8N, Zapier, Make
+- **AI/ML**: Generative AI, Agentic AI, AI Automations
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/MERN-3E863D?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
