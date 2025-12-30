@@ -8,8 +8,6 @@ Hi! I'm Ahmed — I build intelligent automation systems, AI-driven solutions, a
 
 ### 🚀 Projects
 
-- 📄 RAG Chatbot – Document-based Q&A system using LLMs, vector databases and LangChain.
-
 - 📲 WhatsApp Lead Automation – Built a system that automatically replies to messages, shares info, and converts interested users into clients without human effort.
 
 - 📂 Email Scraping Tool – Built a system that automatically collects valid emails from websites, cleans and organizes them, and prepares lists for outreach without manual work.
@@ -17,8 +15,6 @@ Hi! I'm Ahmed — I build intelligent automation systems, AI-driven solutions, a
 - 📧 Email Automation System – Built a system that automatically sends Emails, tracks replies, follows up with prospects, and converts leads into clients without manual effort.
 
 - 🤖 Have very deep understanding of LLMs and also implemented them from scratch.
-
-- 🌐 Developed a Machine Translation project from Dutch to English.
 
 ---
 
