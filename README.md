@@ -12,9 +12,9 @@ I have built the following systems and tools to automate workflows, manage leads
 
 - WhatsApp Lead Automation – Automatically replies to messages, shares info, and converts interested users into clients without human effort.
 
-- Email Scraping Tool – Automatically collects valid emails from websites, cleans and organizes them, and prepares lists for outreach without manual work.
+- Email Outreach Automation System – Automatically collects valid emails from websites, cleans and organizes them, and prepares lists for outreach without manual work.
 
-- Email Automation System – Automatically sends emails, tracks replies, follows up with prospects, and converts leads into clients without manual effort.
+- Email Lead Automation System – Automatically sends emails, tracks replies, follows up with prospects, and converts leads into clients without manual effort.
 
 - Built and experimented with large language models from scratch.
 
