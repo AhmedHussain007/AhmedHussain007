@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed Hussain | AI & Automation Engineer
+# AI & Automation Engineer
 
 <p style="font-size:18px">
 Hi! I'm Ahmed — I build intelligent automation and AI-driven systems that solve real-world problems. My work includes workflow automation, lead management, agent-based applications, and LLM-powered tools.
@@ -6,21 +6,21 @@ Hi! I'm Ahmed — I build intelligent automation and AI-driven systems that solv
 
 ---
 
-### 🚀 Projects
+### Projects
 
 I have built the following systems and tools to automate workflows, manage leads, and streamline communication:
 
-- 📲 WhatsApp Lead Automation – Automatically replies to messages, shares info, and converts interested users into clients without human effort.
+- WhatsApp Lead Automation – Automatically replies to messages, shares info, and converts interested users into clients without human effort.
 
-- 📂 Email Scraping Tool – Automatically collects valid emails from websites, cleans and organizes them, and prepares lists for outreach without manual work.
+- Email Scraping Tool – Automatically collects valid emails from websites, cleans and organizes them, and prepares lists for outreach without manual work.
 
-- 📧 Email Automation System – Automatically sends emails, tracks replies, follows up with prospects, and converts leads into clients without manual effort.
+- Email Automation System – Automatically sends emails, tracks replies, follows up with prospects, and converts leads into clients without manual effort.
 
-- 🤖 Built and experimented with large language models from scratch.
+- Built and experimented with large language models from scratch.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -33,7 +33,7 @@ I have built the following systems and tools to automate workflows, manage leads
 
 ---
 
-### 🎓 Courses
+### Courses
 
 - **Machine Learning** – Stanford (Andrew Ng)
 - **Deep Learning Specialization** – Stanford (Andrew Ng)
@@ -41,7 +41,7 @@ I have built the following systems and tools to automate workflows, manage leads
 
 ---
 
-### 🧠 Skills
+### Skills
 
 - **Languages**: Python, JavaScript  
 - **Frameworks/Tools**: PyTorch, LangChain, LangGraph, N8N, Zapier, Make
@@ -49,10 +49,10 @@ I have built the following systems and tools to automate workflows, manage leads
 
 ---
 
-### 💡 What I'm Up To
+### What I'm Up To
 
-- 🔭 Working on Multi-Agent systems using Agentic AI concepts.
-- 👯 Looking to collaborate on AI tools, workflow automation, RAG systems, and open-source AI projects.
+- Working on **Multi-Agent systems** using Agentic AI concepts.
+- Looking to collaborate on AI tools, workflow automation, RAG systems, and open-source AI projects.
 
 
 ---
